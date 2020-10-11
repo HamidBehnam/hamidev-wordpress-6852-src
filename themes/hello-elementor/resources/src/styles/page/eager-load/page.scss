@@ -1,0 +1,19 @@
+//.page-content-container {
+//  color: darkslateblue;
+//
+//  .page-breadcrumb {
+//    list-style-type: none;
+//    display: flex;
+//    flex-direction: row-reverse;
+//    justify-content: flex-end;
+//
+//    li {
+//      &:not(:first-child) {
+//        &:after {
+//          content: ">";
+//          padding: 0 20px;
+//        }
+//      }
+//    }
+//  }
+//}
